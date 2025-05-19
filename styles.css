@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-position: center;
+    background-image: url(images/Moai\ Emoji.jpg)
+  }
+  h1 {
+    font-size: 5rem;
+    color: lightgrey;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 darkcyan;
+  }
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  .p {
+  background-image: url("images/Paper.jfif");
+  }
+  .r {
+  background-position: center;
+  background-image: url("images/moyai-emoji-1521x2048-l4n2ppzy.png");
+  background-size: contain;
+  }
+  .s {
+  background-image: url("images/scisososo.png");
+  text-shadow: darkgreen;
+  }
+  .set {
+    margin: 10% auto;
+  }
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  .pressed {
+    box-shadow: 0 3px 4px 0 black;
+    opacity: 0.5;
+  }
+  .red {
+    color: red;
+  }
+  .buttonness {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: black;
+    text-shadow: 3px 0 grey;
+    border-radius: 15px;
+    display: inline-block;
+    width: 220px;
+    height: 220px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
